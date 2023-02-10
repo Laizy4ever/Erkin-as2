@@ -1,7 +1,0 @@
-            
-
-    <div class="text-bg-dark text-center bg-opacity-75">
-        <div class="py-lg-5 py-sm-4">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit nemo nisi <br> sed adipisci tempora fugiat odit earum placeat quod inventore.
-        </div>
-    </div>
