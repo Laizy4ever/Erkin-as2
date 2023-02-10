@@ -1,41 +1,4 @@
-            <div class="row justify-content-end pb-5 mt-sm-5">
-                <div class="col-sm-4 col-lg-3 text-uppercase py-sm-3 text-white fw-bold fs-5 rounded-5 px-lg-4" style="background-color: #da8ee7;">
-                    <div class="pt-lg-5 pb-lg-3">
-                        <i class="bi-telephone-fill pe-lg-2"></i>
-                        Call us
-                    </div>
-                    <div class="lead">
-                        1 (234) 567-890,
-                    </div>
-                    <div class="lead pb-lg-4">
-                        1 (234) 567-890,
-                    </div>
-                </div>
-                <div class=" col-sm-4 col-lg-3 text-white fw-bold py-sm-3 fs-5 rounded-5 px-lg-4 mx-lg-3 py-sm-3" style="background-color: #ec7b91;">
-                    <div class="pt-lg-5 text-uppercase pb-lg-3 ">
-                        <i class="bi-geo-alt-fill pe-lg-2 "></i>
-                        location
-                    </div>
-                    <div class="lead">
-                        121 Rock Street, 21 Avenue 
-                    </div>
-                    <div class="lead pb-lg-4">
-                        New York, NY 92103-9000
-                    </div>
-                </div>
-                <div class=" col-sm-4 col-lg-3 text-white fw-bold py-sm-3 fs-5 rounded-5 px-lg-4" style="background-color: #6bc2f7;">
-                    <div class="pt-lg-5 text-uppercase pb-lg-3">
-                        <i class="bi-clock-fill pe-lg-2"></i>
-                        hours
-                    </div>
-                    <div class="lead">
-                        Mon-Fri ........ 11 am - 8 pm. 
-                    </div>
-                    <div class="lead pb-lg-4">
-                        Sat, Sun ....... 6 am - 8 pm.
-                    </div>
-                </div>
-            </div>
+            
 
     <div class="text-bg-dark text-center bg-opacity-75">
         <div class="py-lg-5 py-sm-4">
